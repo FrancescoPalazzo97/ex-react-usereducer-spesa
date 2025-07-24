@@ -1,0 +1,29 @@
+.d-flex {
+    display: flex;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+button {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.me-1 {
+    margin-right: 1rem;
+}
+
+.container {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
